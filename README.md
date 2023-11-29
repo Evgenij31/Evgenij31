@@ -7,11 +7,11 @@
 
 
 
-<div id="badges" align="center">
+<!--<div id="badges" align="center">
   <a href="mailto:evgenijsjosifovski512@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-brightgreen"></img>
   </a>
-</div>
+</div>-->
 
 <div id="languages" align="center" margin="20px">
   <h3>🛠️ Tools and Languages</h3>
